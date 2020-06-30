@@ -1,0 +1,2 @@
+# Machine-Learning
+Work completed for assignments during the Machine Learning module of second Year Computer Science. This module introduced Python and many Machine Learning strategies such as Polynomial Regression, K-Means Clustering, Data Processing, Plotting, and Artificial Neural Networks.
